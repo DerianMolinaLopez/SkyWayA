@@ -14,7 +14,7 @@ const destinations: Destination[] = [
     id: 1,
     name: 'París',
     country: 'Francia',
-    image: 'https://images.pexels.com/photos/699466/pexels-photo-699466.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    image: 'https://i.pinimg.com/736x/d6/6a/0d/d66a0d31157effc15fa224cbd396668c.jpg',
     description: 'La ciudad del amor, con su icónica Torre Eiffel y exquisita gastronomía.'
   },
   {
